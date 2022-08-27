@@ -3,6 +3,7 @@
   "displayName": "GreenSkin",
   "publisher": "SandeepaFernando",
   "description": "A Dark Theme",
+  "repository": "https://github.com/lizardkingLK/GreenSkin",
   "version": "0.0.5",
   "engines": {
     "vscode": "^1.70.0"
