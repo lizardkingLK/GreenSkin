@@ -1,11 +1,19 @@
-# GreenSkin - Dark Green Skin
+<div style="text-align: center;">
 
-- A High Contrast Green Accent Theme
+![GreenSkin Icon](/icon.png)
 
-- For Dark Preferences
+# GreenSkin - A Dark Green Skin
 
-- With Green Accent
+A High Contrast Green Accent Theme
 
-- Inspired by WH40K. WAAAGH!
+For Dark Preferences
+
+With Green Accent
+
+WAAAGH!
+
+</div>
 
 <br />
+
+![A Screenshot of The GreenSkin](/images/screenshot-1.png)
