@@ -15,3 +15,7 @@ All notable changes to the "greenskin" extension will be documented in this file
 ## [0.0.3] - 2022-08-14
 
 - Changed the debug mode color from brown to red
+
+## [0.0.4] - 2022-08-14
+
+- Updated Icons
