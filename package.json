@@ -4,6 +4,7 @@
   "publisher": "SandeepaFernando",
   "description": "A Dark Theme",
   "repository": "https://github.com/lizardkingLK/GreenSkin",
+  "icon": "icon.png",
   "version": "0.0.6",
   "engines": {
     "vscode": "^1.70.0"

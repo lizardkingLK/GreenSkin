@@ -19,3 +19,7 @@ All notable changes to the "greenskin" extension will be documented in this file
 ## [0.0.4] - 2022-08-14
 
 - Updated Icons
+
+## [0.0.5] - 2022-08-30
+
+- Updated Logo
